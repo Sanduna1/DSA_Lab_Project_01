@@ -97,6 +97,5 @@
    <hr>
 
    <p>Feel free to download, explore, and modify the project! 😊</p>
-    <p><strong>GitHub Link:</strong> <a href="https://github.com/yourusername/FruitApp" target="_blank">FruitApp Repository</a></p>
 </body>
 </html>
